@@ -1,0 +1,78 @@
+{
+    "title": "Rev | EU | 4 | Skins + 3 Paid | RGX 11z Pro Vandal, Spectrum Phantom, Radiant Crisis 001 Spectre, Overlay Sheriff",
+    "rub_price": 1725,
+    "trackers": [
+        {
+            "valorant_tracker": "https://tracker.gg/valorant/profile/riot/ggham2009za%232009/overview?playlist=competitive"      
+        },
+        {
+            "valotool": "https://vtl.lol/id/5bce2279-507a-58ab-99f0-33d579c92e2a"
+        },
+        {
+            "league_of_legends_tracker": "https://www.op.gg/summoners/search?q=ggham2009za%232009&region=eu"
+        }
+    ],
+    "counters": [
+        {
+            "inventory_value": "~ 6625 VP"
+        },
+        {
+            "valorant_point": "128"
+        },
+        {
+            "radiant_point": "40"
+        },
+        {
+            "free_agents": "0"
+        },
+        {
+            "current_rank": "Ranked Ready"
+        },
+        {
+            "previous_season_rank": "No rank"
+        },
+        {
+            "last_rank": "No rank"
+        },
+        {
+            "level": "45"
+        },
+        {
+            "locale": "Europe"
+        },
+        {
+            "last_activity": "Feb 27, 2025"
+        },
+        {
+            "snap_to_email": "Yes"
+        },
+        {
+            "country": "Turkey"
+        },
+        {
+            "snap_to_phone": "Yes"
+        }
+    ],
+    "weapon_skins": [
+        {
+            "name": "RGX 11z Pro Vandal",
+            "item_rank": "rank--3",
+            "image_url": "https://media.valorant-api.com/weaponskins/e5490f71-455b-74ad-f762-f5a876d4dff9/displayicon.png"
+        },
+        {
+            "name": "Spectrum Phantom",
+            "item_rank": "rank--3",
+            "image_url": "https://media.valorant-api.com/weaponskins/980fa063-436e-e51f-c38d-70a5b93a0f1c/displayicon.png"
+        },
+        {
+            "name": "Radiant Crisis 001 Spectre",
+            "item_rank": "rank--2",
+            "image_url": "https://media.valorant-api.com/weaponskins/780a93e6-46aa-50c7-5e73-b885c5f6a141/displayicon.png"
+        },
+        {
+            "name": "Overlay Sheriff",
+            "item_rank": "rank--1",
+            "image_url": "https://media.valorant-api.com/weaponskins/63260230-44aa-2a9f-71db-329e2a3afab5/displayicon.png"
+        }
+    ]
+}
